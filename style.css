@@ -1,0 +1,13 @@
+.pop input{
+    margin: auto;
+}
+
+.pop{
+    margin-top: 70px;
+    box-shadow: 5px 10px #888888;
+    padding: 10px;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+.div {
+    transition: 1s all ease;
+}
