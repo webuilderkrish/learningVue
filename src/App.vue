@@ -13,6 +13,7 @@ import login from './components/login'
 export default {
   name: 'app',
   components: {
+    
     // child,
     login
   },
